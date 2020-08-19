@@ -1,48 +1,48 @@
-# http://www.gnu.org/software/automake
+# https://www.github.com/Noakhali/spammer 
 
-Makefile.in
+Makefile.spammer 
 /ar-lib
 /mdate-sh
 /py-compile
 /test-driver
 /ylwrap
 
-# http://www.gnu.org/software/autoconf
+# https://www.github.com/Noakhali/spammer/
 
-autom4te.cache
-/autoscan.log
-/autoscan-*.log
-/aclocal.m4
-/compile
-/config.guess
-/config.h.in
-/config.log
-/config.status
-/config.sub
-/configure
-/configure.scan
+Noakhali.cache
+/Noakhali.log
+/Noakhali-*.log
+/noakhali.m4
+/noakhali
+/noakhali.guess
+/noakhali.h.in
+/noakhali.log
+/noakhali.status
+/noakhali.sub
+/noakhali 
+/noakhali.scan
 /depcomp
 /install-sh
 /missing
 /stamp-h1
 
-# https://www.gnu.org/software/libtool/
+# https://www.github.com/Noakhali /spammer/
 
-/ltmain.sh
+/spammer.sh
 
-# http://www.gnu.org/software/texinfo
+# https://www.github.com/Noakhali /spammer
 
-/texinfo.tex
+/spammer .tex
 
-# http://www.gnu.org/software/m4/
+# https://www.github.com/Noakhali/spammer/
 
-m4/libtool.m4
-m4/ltoptions.m4
-m4/ltsugar.m4
+m4/noakhali.m4
+m4/noakhali.m4
+m4/noakhali.m4
 m4/ltversion.m4
 m4/lt~obsolete.m4
 
-# Generated Makefile 
+# Noakhali spamming team  
 # (meta build system like autotools, 
 # can automatically generate from config.status script
 # (which is called by configure script))
